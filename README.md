@@ -13,7 +13,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Eenvoudig navigatiemenu met verschillende categorieën.
 - **Code**: [v1.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v1.jsx)
 
-![Versie 1](link-naar-je-v1-afbeelding)
+![Versie 1](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v1.png)
 
 ---
 
@@ -26,7 +26,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Achtergrondkleur verfijnd voor een warmere uitstraling.
 - **Code**: [v2.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v2.jsx)
 
-![Versie 2](link-naar-je-v2-afbeelding)
+![Versie 2](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v2.png)
 
 ---
 
@@ -40,7 +40,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Paarse accenten toegevoegd voor interactieve elementen.
 - **Code**: [v3.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v3.jsx)
 
-![Versie 3](link-naar-je-v3-afbeelding)
+![Versie 3](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v3.png)
 
 ---
 
@@ -54,7 +54,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Warmere achtergrondkleur toegepast voor een aangenamere gebruikerservaring.
 - **Code**: [v4.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v4.jsx)
 
-![Versie 4](link-naar-je-v4-afbeelding)
+![Versie 4]([link-naar-je-v4-afbeelding](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v4.png))
 
 ---
 
@@ -65,7 +65,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Implementatie van lijnen en punten die het stelsel vormen.
 - **Code**: [v5.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v5.jsx)
 
-![Versie 5](link-naar-je-v5-afbeelding)
+![Versie 5]([link-naar-je-v5-afbeelding](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v5.png))
 
 ---
 
@@ -76,7 +76,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Gebruik van v0 AI voor het genereren van de animatiecode.
 - **Code**: [v6.jsx]([link-naar-je-v6-code](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v6.jsx))
 
-![Versie 6](link-naar-je-v6-afbeelding)
+![Versie 6](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v6.png)
 
 ---
 
@@ -88,7 +88,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Gebaseerd op W3Schools overlay voorbeeld en verbeterd met Cursor AI.
 - **Code**: [v7.jsx]([link-naar-je-v7-code](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v7.jsx))
 
-![Versie 7](link-naar-je-v7-afbeelding)
+![Versie 7](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v7.png)
 
 ---
 
@@ -99,7 +99,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Integratie van de animatie.
 - **Code**: [v8.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v8.jsx)
 
-![Versie 8](link-naar-je-v8-afbeelding)
+![Versie 8](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v8.png)
 
 ## Technologieën
 
@@ -113,5 +113,5 @@ Dit project is ontwikkeld met de volgende technologieën:
 
 ## Links naar project
 
-- **GitHub Repository**: [Link naar je GitHub repository]
-- **Website**: [Link naar de live versie van je portfolio, indien beschikbaar]
+- **GitHub Repository**: [https://github.com/Teunert2/teunelshout]
+- **Website**: [https://teunelshout.onrender.com/]
