@@ -54,7 +54,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Warmere achtergrondkleur toegepast voor een aangenamere gebruikerservaring.
 - **Code**: [v4.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v4.jsx)
 
-![Versie 4]([link-naar-je-v4-afbeelding](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v4.png))
+![Versie 4](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v4.png)
 
 ---
 
@@ -65,7 +65,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Implementatie van lijnen en punten die het stelsel vormen.
 - **Code**: [v5.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v5.jsx)
 
-![Versie 5]([link-naar-je-v5-afbeelding](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v5.png))
+![Versie 5](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v5.png)
 
 ---
 
@@ -74,7 +74,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
 - **Functionaliteiten**: 
   - Animatie van raketten die tussen punten in het sterrestelsel bewegen.
   - Gebruik van v0 AI voor het genereren van de animatiecode.
-- **Code**: [v6.jsx]([link-naar-je-v6-code](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v6.jsx))
+- **Code**: [v6.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v6.jsx)
 
 ![Versie 6](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v6.png)
 
@@ -86,7 +86,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Implementatie van een overlay die verschijnt bij het klikken op punten in het stelsel.
   - Animatie van een raket die van linksboven naar rechtsboven vliegt bij interactie.
   - Gebaseerd op W3Schools overlay voorbeeld en verbeterd met Cursor AI.
-- **Code**: [v7.jsx]([link-naar-je-v7-code](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v7.jsx))
+- **Code**: [v7.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v7.jsx)
 
 ![Versie 7](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v7.png)
 
