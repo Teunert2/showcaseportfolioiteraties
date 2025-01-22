@@ -11,7 +11,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Basis layout met titel "2024 PORTFOLIO".
   - Naam "Teun Elshout" prominent weergegeven.
   - Eenvoudig navigatiemenu met verschillende categorieën.
-- **Code**: [v1.jsx](link-naar-je-v1-code)
+- **Code**: [v1.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v1.jsx)
 
 ![Versie 1](link-naar-je-v1-afbeelding)
 
@@ -24,7 +24,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Naam "Teun Elshout" gebogen gemaakt voor visueel effect.
   - Navigatiemenu verbeterd met lijnen en betere uitlijning.
   - Achtergrondkleur verfijnd voor een warmere uitstraling.
-- **Code**: [v2.jsx](link-naar-je-v2-code)
+- **Code**: [v2.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v2.jsx)
 
 ![Versie 2](link-naar-je-v2-afbeelding)
 
@@ -38,7 +38,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Contact gedeelte met email en LinkedIn.
   - Profielfoto geïntegreerd in het ontwerp.
   - Paarse accenten toegevoegd voor interactieve elementen.
-- **Code**: [v3.jsx](link-naar-je-v3-code)
+- **Code**: [v3.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v3.jsx)
 
 ![Versie 3](link-naar-je-v3-afbeelding)
 
@@ -52,7 +52,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Handtekening in paarse kleur toegevoegd voor persoonlijke touch.
   - Dun kader rond "SOFTWARE" titel voor visuele scheiding.
   - Warmere achtergrondkleur toegepast voor een aangenamere gebruikerservaring.
-- **Code**: [v4.jsx](link-naar-je-v4-code)
+- **Code**: [v4.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v4.jsx)
 
 ![Versie 4](link-naar-je-v4-afbeelding)
 
@@ -63,7 +63,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
 - **Functionaliteiten**: 
   - Creatie van een sterrestelsel met SVG Path Visualizer.
   - Implementatie van lijnen en punten die het stelsel vormen.
-- **Code**: [v5.jsx](link-naar-je-v5-code)
+- **Code**: [v5.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v5.jsx)
 
 ![Versie 5](link-naar-je-v5-afbeelding)
 
@@ -74,7 +74,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
 - **Functionaliteiten**: 
   - Animatie van raketten die tussen punten in het sterrestelsel bewegen.
   - Gebruik van v0 AI voor het genereren van de animatiecode.
-- **Code**: [v6.jsx](link-naar-je-v6-code)
+- **Code**: [v6.jsx]([link-naar-je-v6-code](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v6.jsx))
 
 ![Versie 6](link-naar-je-v6-afbeelding)
 
@@ -86,7 +86,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Implementatie van een overlay die verschijnt bij het klikken op punten in het stelsel.
   - Animatie van een raket die van linksboven naar rechtsboven vliegt bij interactie.
   - Gebaseerd op W3Schools overlay voorbeeld en verbeterd met Cursor AI.
-- **Code**: [v7.jsx](link-naar-je-v7-code)
+- **Code**: [v7.jsx]([link-naar-je-v7-code](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v7.jsx))
 
 ![Versie 7](link-naar-je-v7-afbeelding)
 
@@ -96,8 +96,8 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
 - **Beschrijving**: Ontwikkeling van de projectenpagina met geïntegreerde sterrestelsel animatie.
 - **Functionaliteiten**: 
   - Creatie van een aparte projectenpagina.
-  - Integratie van het sterrestelsel met 180 graden gedraaide animatie.
-- **Code**: [v8.jsx](link-naar-je-v8-code)
+  - Integratie van de animatie.
+- **Code**: [v8.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v8.jsx)
 
 ![Versie 8](link-naar-je-v8-afbeelding)
 
