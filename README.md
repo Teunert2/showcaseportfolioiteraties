@@ -4,9 +4,8 @@
 
 Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden in webontwikkeling te demonstreren. Het project toont mijn vermogen om een ontwerp van Figma om te zetten naar een functionele website, waarbij ik gebruik maak van moderne webtechnologieën en incrementele verbeteringen aanbreng.
 
-## Ontwikkelingsproces
 
-### Versie 1: Initiële implementatie
+### Versie 1:
 - **Beschrijving**: Eerste versie van de homepage, gebaseerd op Figma ontwerp.
 - **Functionaliteiten**: 
   - Basis layout met titel "2024 PORTFOLIO".
@@ -18,7 +17,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
 
 ---
 
-### Versie 2: Persoonlijke aanpassingen
+### Versie 2:
 - **Beschrijving**: Verfijning van de eerste versie met verbeterde styling en layout.
 - **Functionaliteiten**: 
   - Jaar aangepast van "2024" naar "2025".
@@ -31,7 +30,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
 
 ---
 
-### Versie 3: Tweede pagina implementatie
+### Versie 3:
 - **Beschrijving**: Toevoeging van een nieuwe pagina met meer persoonlijke informatie.
 - **Functionaliteiten**: 
   - Onderwijs sectie met Theresialyceum en Fontys University.
@@ -45,7 +44,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
 
 ---
 
-### Versie 4: Eigen aanpassingen en verfijning
+### Versie 4:
 - **Beschrijving**: Verdere personalisatie en verbetering van de tweede pagina.
 - **Functionaliteiten**: 
   - Software iconen toegevoegd voor Photoshop, Figma en VSCode.
@@ -59,7 +58,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
 
 ---
 
-### Versie 5: Sterrestelsel Implementatie
+### Versie 5:
 - **Beschrijving**: Toevoeging van een interactief sterrestelsel aan de homepage.
 - **Functionaliteiten**: 
   - Creatie van een sterrestelsel met SVG Path Visualizer.
@@ -70,7 +69,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
 
 ---
 
-### Versie 6: Raket Animatie
+### Versie 6:
 - **Beschrijving**: Toevoeging van geanimeerde raketten aan het sterrestelsel.
 - **Functionaliteiten**: 
   - Animatie van raketten die tussen punten in het sterrestelsel bewegen.
@@ -81,7 +80,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
 
 ---
 
-### Versie 7: Interactieve Overlay
+### Versie 7:
 - **Beschrijving**: Toevoeging van interactieve elementen aan het sterrestelsel.
 - **Functionaliteiten**: 
   - Implementatie van een overlay die verschijnt bij het klikken op punten in het stelsel.
@@ -93,7 +92,7 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
 
 ---
 
-### Versie 8: Projectenpagina
+### Versie 8:
 - **Beschrijving**: Ontwikkeling van de projectenpagina met geïntegreerde sterrestelsel animatie.
 - **Functionaliteiten**: 
   - Creatie van een aparte projectenpagina.
@@ -112,14 +111,7 @@ Dit project is ontwikkeld met de volgende technologieën:
 - SVG Path Visualizer
 - CSS Animaties
 
-## Toekomstige ontwikkelingen
-
-Dit project is nog in ontwikkeling. Verdere updates en verbeteringen zijn gepland voor de nabije toekomst, waaronder:
-- Verdere verfijning van de sterrestelsel animatie
-- Toevoeging van meer interactieve elementen
-- Optimalisatie van de prestaties voor verschillende apparaten
-
 ## Links naar project
 
 - **GitHub Repository**: [Link naar je GitHub repository]
-- **Live Demo**: [Link naar de live versie van je portfolio, indien beschikbaar]
+- **Website**: [Link naar de live versie van je portfolio, indien beschikbaar]
