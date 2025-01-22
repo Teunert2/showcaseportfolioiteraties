@@ -57,6 +57,51 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
 
 ![Versie 4](link-naar-je-v4-afbeelding)
 
+---
+
+### Versie 5: Sterrestelsel Implementatie
+- **Beschrijving**: Toevoeging van een interactief sterrestelsel aan de homepage.
+- **Functionaliteiten**: 
+  - Creatie van een sterrestelsel met SVG Path Visualizer.
+  - Implementatie van lijnen en punten die het stelsel vormen.
+- **Code**: [v5.jsx](link-naar-je-v5-code)
+
+![Versie 5](link-naar-je-v5-afbeelding)
+
+---
+
+### Versie 6: Raket Animatie
+- **Beschrijving**: Toevoeging van geanimeerde raketten aan het sterrestelsel.
+- **Functionaliteiten**: 
+  - Animatie van raketten die tussen punten in het sterrestelsel bewegen.
+  - Gebruik van v0 AI voor het genereren van de animatiecode.
+- **Code**: [v6.jsx](link-naar-je-v6-code)
+
+![Versie 6](link-naar-je-v6-afbeelding)
+
+---
+
+### Versie 7: Interactieve Overlay
+- **Beschrijving**: Toevoeging van interactieve elementen aan het sterrestelsel.
+- **Functionaliteiten**: 
+  - Implementatie van een overlay die verschijnt bij het klikken op punten in het stelsel.
+  - Animatie van een raket die van linksboven naar rechtsboven vliegt bij interactie.
+  - Gebaseerd op W3Schools overlay voorbeeld en verbeterd met Cursor AI.
+- **Code**: [v7.jsx](link-naar-je-v7-code)
+
+![Versie 7](link-naar-je-v7-afbeelding)
+
+---
+
+### Versie 8: Projectenpagina
+- **Beschrijving**: Ontwikkeling van de projectenpagina met geïntegreerde sterrestelsel animatie.
+- **Functionaliteiten**: 
+  - Creatie van een aparte projectenpagina.
+  - Integratie van het sterrestelsel met 180 graden gedraaide animatie.
+- **Code**: [v8.jsx](link-naar-je-v8-code)
+
+![Versie 8](link-naar-je-v8-afbeelding)
+
 ## Technologieën
 
 Dit project is ontwikkeld met de volgende technologieën:
@@ -64,10 +109,15 @@ Dit project is ontwikkeld met de volgende technologieën:
 - React
 - Next.js
 - Tailwind CSS
+- SVG Path Visualizer
+- CSS Animaties
 
 ## Toekomstige ontwikkelingen
 
-Dit project is nog in ontwikkeling. Verdere updates en verbeteringen zijn gepland voor de nabije toekomst.
+Dit project is nog in ontwikkeling. Verdere updates en verbeteringen zijn gepland voor de nabije toekomst, waaronder:
+- Verdere verfijning van de sterrestelsel animatie
+- Toevoeging van meer interactieve elementen
+- Optimalisatie van de prestaties voor verschillende apparaten
 
 ## Links naar project
 
