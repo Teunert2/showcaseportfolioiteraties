@@ -4,7 +4,6 @@
 
 Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden in webontwikkeling te demonstreren. Het project toont mijn vermogen om een ontwerp van Figma om te zetten naar een functionele website, waarbij ik gebruik maak van moderne webtechnologieën en incrementele verbeteringen aanbreng.
 
-
 ### Versie 1:
 - **Beschrijving**: Eerste versie van de homepage, gebaseerd op Figma ontwerp.
 - **Functionaliteiten**: 
@@ -13,7 +12,11 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Eenvoudig navigatiemenu met verschillende categorieën.
 - **Code**: [v1.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v1.jsx)
 
+<details>
+<summary>Klik om afbeelding te tonen/verbergen</summary>
+
 ![Versie 1](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v1.png)
+</details>
 
 ---
 
@@ -26,7 +29,11 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Achtergrondkleur verfijnd voor een warmere uitstraling.
 - **Code**: [v2.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v2.jsx)
 
+<details>
+<summary>Klik om afbeelding te tonen/verbergen</summary>
+
 ![Versie 2](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v2.png)
+</details>
 
 ---
 
@@ -40,7 +47,11 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Paarse accenten toegevoegd voor interactieve elementen.
 - **Code**: [v3.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v3.jsx)
 
+<details>
+<summary>Klik om afbeelding te tonen/verbergen</summary>
+
 ![Versie 3](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v3.png)
+</details>
 
 ---
 
@@ -54,7 +65,11 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Warmere achtergrondkleur toegepast voor een aangenamere gebruikerservaring.
 - **Code**: [v4.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v4.jsx)
 
+<details>
+<summary>Klik om afbeelding te tonen/verbergen</summary>
+
 ![Versie 4](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v4.png)
+</details>
 
 ---
 
@@ -65,7 +80,11 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Implementatie van lijnen en punten die het stelsel vormen.
 - **Code**: [v5.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v5.jsx)
 
+<details>
+<summary>Klik om afbeelding te tonen/verbergen</summary>
+
 ![Versie 5](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v5.png)
+</details>
 
 ---
 
@@ -76,7 +95,11 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Gebruik van v0 AI voor het genereren van de animatiecode.
 - **Code**: [v6.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v6.jsx)
 
+<details>
+<summary>Klik om afbeelding te tonen/verbergen</summary>
+
 ![Versie 6](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v6.png)
+</details>
 
 ---
 
@@ -88,7 +111,11 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Gebaseerd op W3Schools overlay voorbeeld en verbeterd met Cursor AI.
 - **Code**: [v7.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v7.jsx)
 
+<details>
+<summary>Klik om afbeelding te tonen/verbergen</summary>
+
 ![Versie 7](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v7.png)
+</details>
 
 ---
 
@@ -99,7 +126,11 @@ Dit project is een showcase portfolio website, ontwikkeld om mijn vaardigheden i
   - Integratie van de animatie.
 - **Code**: [v8.jsx](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/code/v8.jsx)
 
+<details>
+<summary>Klik om afbeelding te tonen/verbergen</summary>
+
 ![Versie 8](https://github.com/Teunert2/showcaseportfolioiteraties/blob/main/images/v8.png)
+</details>
 
 ## Technologieën
 
